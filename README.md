@@ -1,6 +1,6 @@
 # Universality in Algorithmic Tasks: A Developmental Interpretability Perspective
 
-My project for the AI Safety Fundamentals March 2024 cohort.
+My first idea for my project for the AI Safety Fundamentals March 2024 cohort. I subsequently realized that this might be beyond my current abilities for a project completable in a month, so I moved to working on a simpler version of the replication (add link when repository is uploaded). I may come back to this at some point.
 
 ## Project Goals
 
